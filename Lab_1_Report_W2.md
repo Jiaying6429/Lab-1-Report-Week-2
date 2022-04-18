@@ -37,3 +37,4 @@ After the above step, I can use ssh and scp from client to server without using 
 ## Optimizing Remote Running
 > ![Image](optimizing.png)\
 For this step I tried different commands and methods to facilitate the running process and to save time. I also timed myself during trying different methods.
+`scp WhereAmI.java cs15lxx@ieng6.ucsd.edu:~; ssh cs15lxx@ieng6.ucsd.edu; javac WhereAmI.java; java WhereAmI
