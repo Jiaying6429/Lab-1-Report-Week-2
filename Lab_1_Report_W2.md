@@ -23,10 +23,11 @@ For this step, create a new java file using code provided in the Lab 1 Guidance.
 `scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/`\
 Then log in to ssh again and run _ls_ command.\
 Compile and run the code one more time, and it should have different outcome.
+
 ## Setting an SSH Key
 > ![Image](setting_1.png)\
 > ![Image](setting_2.png)\
->For this step, I aim to use "ssh keys" to save time from using ssh by running "ssh keygen" command first.\
+For this step, I aim to use "ssh keys" to save time from using ssh by running "ssh keygen" command first.\
 Then ignore the passphrase and create a random image for my key.\
 After that, login with ssh, and run\
 > * `mkdir .ssh`
