@@ -11,10 +11,10 @@ I did the following in order:\
 Then copied this\
 `Host ieng6`\
 `HostName ieng6.ucsd.edu`\
-`User cs15lsp22als`
+`User cs15lsp22als`\
 Then\
 `ssh ieng6`\
-`scp`\
+`scp`
 
 ## Choice 2
 >![Image](lab3(6).png)\
