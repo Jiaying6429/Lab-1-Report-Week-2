@@ -24,6 +24,8 @@ Then\
 > ### Update
 >![image](lab3(15).png)\
 >![image](lab3(16).png)\
+>![image](lab3(17).png)\
+> [Link](https://github.com/Jiaying6429/markdown-parser/commit/6dd2a8c935b7e9ee609bd77243a7fc39270a6dce) for commit after change\
 >After `git push origin main`, I have:\
 `remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.`\
 `remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.`\
@@ -36,13 +38,14 @@ The private key is stored in .ssh directory. The private key is stored in the fi
 >![Image](lab3(11).png)\
 >![Image](lab3(12).png)\
 >![Image](lab3(13).png)\
->![Image](lab3(14).png)\
+>![Image](lab3(14).png)
+>### Updated:
+>![Image](lab3(18).png)\
+>![Image](lab3(19).png)\
+>![Image](lab3(20).png)\
 For this choice, I first used `pwd` and `ls` to check directory. Then I used\
 `scp -r . cs15lsp22@ieng6.ucsd.edu:~/markdown-parse`\
 to copy directory to remote server. Then I logged into the remote server to see all copied files\
 `scp -r . ieng6:markdown-parse `\
 `ssh cs15lsp22@ieng6.ucsd.edu`.\
 After that, I combined with scp,ssh to copy and run test of the directory. 
-
-
-
