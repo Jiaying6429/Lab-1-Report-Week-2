@@ -4,7 +4,9 @@
 >![Image](lab3(2).png)\
 >![Image](lab3(3).png)\
 >![Image](lab3(4).png)\
->![Image](lab3(5).png)\
+>![Image](lab3(5).png)
+>### Updated:
+>![Image](lab3(21).png)\
 >For this choice, ssh/config saved user from remembering all the command, names and etc that are required to connect to remote system from SSH. \
 I did the following in order:\
 `~/.ssh/config`\
