@@ -11,7 +11,7 @@ I did the following in order:\
 Then copied this\
 `Host ieng6`\
 `HostName ieng6.ucsd.edu`\
-`User cs15lsp22als`\
+`User cs15lsp22als`
 Then\
 `ssh ieng6`\
 `scp`
@@ -20,7 +20,10 @@ Then\
 >![Image](lab3(6).png)\
 >![image](lab3(7).png)\
 >![Image](lab3(8).png)\
->![image](lab3(9).png)\
+>![image](lab3(9).png)
+> ### Update
+>![image](lab3(15).png)\
+>![image](lab3(16).png)\
 >After `git push origin main`, I have:\
 `remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.`\
 `remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.`\
