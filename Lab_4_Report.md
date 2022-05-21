@@ -4,7 +4,7 @@
 > 
 > I used VSCode Preview:\
 > ![Image](lab4(1).png)\
-> This is how tests are added: \
+> This is how tests are added(test cases for my code and reviewed code are the same so I only put my tests here): \
 > ![Image](lab4(2).png)\
 > This is output for my test:\
 > ![Image](lab4(3).png)\
@@ -14,7 +14,7 @@
 ## Questions
 > * Do you think there is a small (<10 lines) code change that will make your program work for snippet 1 and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change.
 > 
-> _My code passed for this snippets_
+> _My code passed for this snippets, I actually didn't change anything_
 >
 > * Do you think there is a small (<10 lines) code change that will make your program work for snippet 2 and all related cases that nest parentheses, brackets, and escaped brackets? If yes, describe the code change. If not, describe why it would be a more involved change.
 >
